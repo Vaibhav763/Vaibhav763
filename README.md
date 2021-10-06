@@ -15,6 +15,17 @@
 With a curious mind , have a keen interest in learning new skills and developing business solutions.
 </p>
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> My Github Stats</h2> </summary>
+<br/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Vaibhav763&show_icons=true&theme=nightowl&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav763&theme=algolia">
+</p>
+
+<p align="center">
+    <img height="30" src="https://komarev.com/ghpvc/?username=Vaibhav763&color=orange&style=flat-square">
+</p>
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> Languages and Tools</h2></summary>
 
@@ -29,9 +40,6 @@ With a curious mind , have a keen interest in learning new skills and developing
     <a href="">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-    </a>
   <a href="">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
@@ -47,6 +55,9 @@ With a curious mind , have a keen interest in learning new skills and developing
     <a href="">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    </a>
+     <a href="">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+    </a>
     <a href="">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </a>
