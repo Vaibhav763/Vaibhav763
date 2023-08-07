@@ -11,8 +11,8 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> About Me </h2> </summary>
 <br/>
 <p align = "center">
-  I'm a third year undergrad at MNNIT Allahabad.<br/> A Tech enthusiast and a dedicated quick learner with proficiency in development.<br/> Along with the experience of team work , project completion and event organization.
-With a curious mind , have a keen interest in learning new skills and developing business solutions.
+  I'm a 2023 Graduate from NIT Allahabad (MNNIT).<br/> Software Developer with strong foundation in Data Structures and Algorithms.
+  <br/> Technical skills include languages like C, C++ and Java, development languages like Node JS , Express JS, Django, databases like Mongo DB, (Relational Database) MySQL, and UI tools like HTML5, CSS, Bootstrap Library, React JS, and Redux. I am proficient in Dev tools like Visual Studio Code, Git, Postman, Atom, IntelliJ IDEA. <br/>Also familiar with computer science core fundamentals of Object Oriented Programming (OOPs), Database Management System(DBMS) , Operating System(OS), Computer Networks.  <br/>I have built some individual as well as team projects in Web Development domain, which are currently live. Being a fast learner, I quickly pick up knowledge related to my project. I am always eager to take on new challenges and push my skills to the next level.
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> My Github Stats</h2> </summary>
